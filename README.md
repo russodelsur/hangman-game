@@ -2,12 +2,14 @@
 
 ## Requirements
 
- ![NODE.JS](https://img.shields.io/badge/NODE%20.JS-brightgreen.svg)
- GIT
+NODE.JS
+
+GIT
 
 ## Built with
 
 Boostrap react
+
 React
 
 ## How to play
