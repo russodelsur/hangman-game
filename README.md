@@ -16,7 +16,7 @@ React
 
 Hangman is a word-guessing game. The computer picks a secret word, and the player tries to guess it. When the guessing player guesses a letter that isn't in the word, they lose a point and the first player draws part of a stick- man for each wrong guess.
 
-You will have 10 attempts to get the full word before losing the round. The app will count the apps lost and won, and will allow you to restart the game from 0 at any moment. 
+You will have 10 attempts to get the full word before losing the round. The app will count the games lost and won, and will allow you to restart the game from 0 at any point. 
 
 ## How to use Hangman?
 
